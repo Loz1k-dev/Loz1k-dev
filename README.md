@@ -1,4 +1,4 @@
-<h1 align="center">Привіт 👋, я [Твоє Ім'я]</h1>
+<h1 align="center">Привіт 👋, я Максим </h1>
 <h3 align="center">Embedded / Low-level розробник — C++, Assembler, ESP32</h3>
 
 <p align="center">
